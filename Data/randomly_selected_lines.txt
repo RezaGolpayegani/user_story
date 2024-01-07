@@ -1,100 +1,100 @@
-As a manager, I want to filter delayed returns so that I can get contact with related members to request return.
-As a library manager, I want to update the shelf number of the book so that members can track the location of the book.
-As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
-As a manager, I want to see what has been ordered during the day so that I can see how the restaurant performing.
-As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
-As a trainer, I want to copy one of my courses or events, so that I can create a new one.
-As a manager, I want to see the members that passed the due date for returning books so that I can determine their penalties.
-As a team member, I want to know what the first hypothesis is, so that I can start developing a prototype to test.
-As an NSF administrator, I want to shadow the CMS implementation, so that I can learn as the prototype is developed further.
-As a repository manager, I want to describe each component as necessary, including title, date(s), language(s), and other facets.
-As an Agency user, I want historical FPDS data loaded.
-As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
-As a migration specialist, I want to store the AT or Archon source record ids in each ASpace record
-As a repository manager, I need details on the type of data, so that I can check if the archiving can be arranged.
-As a Staff, I want to edit book, so that I can correct book records those are faulty.
-As a student, I want to be able to see page information of books
-As a manager, I want to see missing book numbers.
-As a Data Publishing User, I want to have a view on all the datasets I have published, So that I can perform management actions on my own datasets.
-As a participant, I want to always have the cards in the same order across multiple draws, so that it's easy to compare estimates.
-As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
-As a manager, I want to read an employee data
-As a user, I want to search and discover music using content identification or fingerprinting.
-As an NSF employee, I want to join Github, so that I can participate in the issues as assigned.
-As a MedicalCaregiver, I want to have videophone.
-As a cook, I want to inform waiters after food is ready, so that Waiter can serve the food.
-As a chef, I want to keep due dates of ingredients so that I can use them before the due date.
-As a DigitalRecords Archivist, I want to expose the descriptive record for each ETD item for re-use external to Fedora.
-As a chef, I want to see the updated of ordered items that are updated by waiters.
-As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
-As a PI, I want to plan what kind of data I want to store, so that I can ensure it will be possible to store it.
-As a researcher, I want to ask a question about a specific file, so that I can find out more information.
-As a researcher, I want to access files stored in my Neurohub workspace, using a network drive attached to my workstation.
-As an OlderPerson, I want to have ALFRED to enable me to have face to face contacts as well, so that I do not just have virtual contacts over ALFRED.
-As an Archivist, I want to manage Digital Objects.
-As a restaurant employee, I want to get a notification when the biggest order of the day arrives so that I can motivate other employees.
-As a librarian, I want to arrange book list based on authors.
-As a site editor, I want to edit the content of the email automatically sent to new Certified Scrum Masters and Product Owners, so that I don't need to involve a programmer on simple email edits.
-As a MedicalCaregiver, I want to use video calls in case of emergency.
-As a Consumer, I want to load a Data Package from R, so that that I can immediately start playing with it.
-As a manager, I want to know the total sales and total profit so that I can determine the salaries of all employees.Â
-As a Consumer, I want to search based on description of data package, so that that I can find package which related to some key words.
-As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
-As a user, I want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button.
-As an API User, I want to be able to normalise measures by geographical area, So that I work with datasets in reference to their contextual constraints.
-As a Staff, I want to display reservations of a member, so that I can keep track of reservations.
-As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
-As a data manager, I want to know whether the collected data depends on other data sets from my own or other institutions, so that I can ensure that these dependencies are maintained.
-As a Zooniverse admin, I want to know when a volunteer has made an interesting comment on a subject.
-As a management user, I want to get the daily order numbers of the waiters as a report so that I can know Is there a backlog on a certain employee.
-As a library member, I want to look up books listed by place reservation so that I can find the book i am looking for easier.
-As an employee, I want to change customer orders so that I can change the meal in case of a change of mind of the customer.
-As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites.
-As a publisher, I want to be able to check that every time I update my data it is still good, so that I can catch errors early and store reliable data.
-As a cook, I want to view reports on product storage data.
-As a staff, I want to keep track of my assets.
-As an OlderPerson, I want to be able to zoom into visual content.
-As a data manager, I want to know with which software or technology the data is produced or used, so that I know what technology or background information might be necessary to (re-)use the data.
-As a waiter, I want to display available items, so that I can inform customers.
-As a depositor, I want to manage and share live research data, so that whole project workflow is linked together.
-As a team member, I want to have a high-level sense of the project timeline, so that I can plan my work.
-As a patron, I want to download report/dataset release calendar to load into own calendar.
-As an ethics manager, I want to be informed about the data, so that I can check for sensitivity of data.
-As a chef, I want to check the due dates of ingredients so that I can keep them fresh.
-As a DAMS manager, I want to know when the application of a statute to an object or object component has been modified, either manually or automatically.
-As a Researcher, working with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata.
-As a publisher, I want to show the world how my published data is, so that that it immediately catches consumer's attention.
-As a user, I want to be able to see and navigate the component hierarchy of an object.
-As a member of the library, I want to search books by titles and authors so that I can see if the book exists.
-As an employee, I want to delete a customer order.
-As a library worker, I want to list current subscribers.
-As a faculty member, I want to upload my scholarly work to the repository, so that I can reach a non-academic audience, expand my influence within my academic community, and use it for teaching.
-As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
-As a staff, I want to add books with unique id.
-As an employee, I want to change the amount of resources so that my manager always tracks the right amount of resources.
-As a librarian, I want to see when a borrowed book will return, so that I can inform the other users who demand the same book.Â
-As a member, I want to choose book genres.
-As a manager, I want to see the order count.
-As a researcher, I want to access educational outreach materials, so that I can make connections with institutions.
-As an archivist, I want to have an online form for licensing archival material, so that the process is more transparent and some of the back and forth can be eliminated.
-As a library manager, I want to delete a book record so that I can remove books from the library.
-As a Consumer, I want to see some example data packages quickly, so that I get a sense of what is on this site and if it is useful to look further.
-As a researcher, I want to have the ability to form links between objects, for example File A is an analysis of File B, so that data can be searched by type and by association.
-As a Zooniverse admin, I want to automatically detect Snapshot Serengeti images with no classifiable animals in them.
-As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
-As a site member, I want to mark my email address as private even if the rest of my profile is not, so that no one can contact me.
-As a repository manager, I want to indicate all subjects that are pertinent to a collection, object, or object component.
-As a library manager, I want to assign a book to unique identification number so that I can track the books better in the database.
-As a developer, I want to deposit and maintain datasets via an API such as SWORD2, so that my service can interact with the archive.
-As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
-As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
-As a manager, I want to update what type of books are borrowed the most.
-As a repository manager, I want to know all events occurring to a collection.
-As a customer, I want to see the availability of books.
-As an System Administrator, I want to declare that a user is has the Repository Manager role for a given Repository.
-As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
-As a chef, I want to see the seasonal ingredients so that I can built a menu for every season.
-As a developer, I want to be notified as soon as possible when the state of any of my Apps changes.
-As a waiter, I want to edit orders, so that we can correct changed orders.
-As a collection curator, I want to be able require authentication to access objects unless the request is coming from a whitelisted IP address, list of addresses.
-As a user, I want to receive content recommendations based on most relevant news events in my area.
+g03-loudoun.txt: As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also send a communication from the system to the Applicant.
+User Stories for Restaurant Management System.txt: As a cook, I want to keep track of store orders so that I can schedule orders.
+g19-alfred.txt: As an OlderPerson, I want to use ALFRED to control the heating.
+User Stories for Restaurant Management System.txt: As an employee, I want to see all store orders.
+g05-openspending.txt: As a Data Consuming User, I want to be able to search any dataset published and publicly accessible by their title and metadata, So that I can find the datasets I'm interested in.
+User Stories for Library Management System.txt: As a library member, I want to locate related books and see the shelf number in the library by using unique information to speed up the searching process.
+g05-openspending.txt: As an API User, I want to be able to use data to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+User Stories for Restaurant Management System.txt: As a customer, I want to be able to pay the bill partially
+User Stories for Restaurant Management System.txt: As a cook, I want to have employee data on the system including clock in and out information.
+g03-loudoun.txt: As a Plan Review Staff member, I want to Review Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.
+g27-culrepo.txt: As a patron, I want to know previous name(s) and publication date range (first version-last version) of reports/datasets, so that I can know what historical versions are available and how current more recent version is.
+g25-duraspace.txt: As a user, I want to scope my searches for collections, objects, or object components to a specific language.
+g19-alfred.txt: As a MedicalCaregiver, I want to locate the ALFRED user.
+g27-culrepo.txt: As a library staff member, I want to be able to assign an item to more than one collection.
+g25-duraspace.txt: As a repository manager, I want to indicate any name that is pertinent to the component.
+User Stories for Library Management System.txt: As a library member, I want to keep track of books from an app so that I can know if it is taken or in the library before I go.
+User Stories for Restaurant Management System.txt: As a restaurant employee, I want to receive a notification message when the customer places an order.
+User Stories for Library Management System.txt: As a student, I want to see the books that are currently unavailable so that I can arrange my reading plan.
+g27-culrepo.txt: As an asset manager, I want to know what the intellectual value of the asset is to the institution at the time of deposit, so that I obtain guidance in the evaluation of it for current value for the institution.
+g25-duraspace.txt: As a DAMS manager, I want to know the agent(s) responsible for carrying out an event.
+g02-federalspending.txt: As a Developer I want to quickly access Broker application data, so that I can investigate issues.
+g02-federalspending.txt: As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
+g19-alfred.txt: As a developer, I want to have the ALFRED API to reduce the work to achieve my goals.
+g04-recycling.txt: As an admin, I want to handle all users' activities, so that I can manage more efficiently.
+g16-mis.txt: As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
+g04-recycling.txt: As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
+g28-zooniverse.txt: As a Zooniverse admin, I want to detect important features such as areas of flooding, damage, temporary shelters, blocked roads etc in the satellite images.
+User Stories for Library Management System.txt: As a librarian, I want to delete books from the library.
+g19-alfred.txt: As an OlderPerson, I want to be able to see my training Performance.
+g02-federalspending.txt: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+g13-planningpoker.txt: As a moderator, I want to enter the agreed-upon estimate, so that we can move on to the next item when we agree.
+g22-rdadmp.txt: As a researcher, I want to record research publications in the institutional repository or CRIS with DMP records, so that I can generate reports of research output resulting from a project.
+g21-badcamp.txt: As a attendee, I want to get detailed directions to the summit venue, so that I can get to the summit easily on the day of the event.
+g21-badcamp.txt: As a sponsor, I want to post a job, so that I can hire top-tier Drupal talent.
+g13-planningpoker.txt: As a moderator, I want to export a transcript of a game as a CSV file, so that I can further process the stories and estimates.
+g26-racdam.txt: As an archivist, I want to link electronic versions of researchers' publications to citations, so that I can share them with other researchers.
+g16-mis.txt: As a repoadmin, I want to have Symplectic Elements to communicate
+g22-rdadmp.txt: As a researcher, I want the DMP to prepopulate information that I have already entered in other institutional systems, so that I do not have to re-enter information ensuring the DMP contains accurate and standardized information.
+g19-alfred.txt: As an OlderPerson, I want to have ALFRED to set limits in the games duration as I get bored easily.
+g25-duraspace.txt: As a DAMS manager, I want to indicate to preservation managers aspects of a master file useful for monitoring its integrity, and impending obsolescence, including file size, creation date, file format and format version.
+User Stories for Restaurant Management System.txt: As a manager, I want to save the menu each month.
+g23-archivesspace.txt: As an Archivist, I want to upload an EAD for import from within the frontend application.
+g22-rdadmp.txt: As a PI, I want to plan what kind of data I want to record/store, so that I can ensure it will possible to store it.
+User Stories for Library Management System.txt: As a member, I want to remove reservations so that I can cancel my reservation anytime I want.
+User Stories for Library Management System.txt: As a librarian, I want to update pages for book information.
+g23-archivesspace.txt: As a user, I want frontend changes for managing enum lists.
+g28-zooniverse.txt: As an admin, I want to automatically validated the ingested contents for copyright infringement.
+User Stories for Library Management System.txt: As a manager, I want to delete library members.
+g04-recycling.txt: As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
+User Stories for Restaurant Management System.txt: As a chef, I want to update the ingredients of the menu items.
+g04-recycling.txt: As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
+User Stories for Restaurant Management System.txt: As a manager, I want to display orders by date.
+g26-racdam.txt: As an archivist, I want to upload a single file.
+User Stories for Library Management System.txt: As a librarian, I want to create information about borrowed books.
+User Stories for Library Management System.txt: As a Staff, I want to edit book, so that I can correct book records those are faulty.
+g27-culrepo.txt: As a library staff member, I want to upload large batches of items simultaneously, including descriptive metadata, so that I can offer service to authors efficiently.
+g26-racdam.txt: As an archivist, I want to access metadata and visual representations of index cards, so that I can use that information to assist researchers.
+User Stories for Restaurant Management System.txt: As a chef, I want to create dishes so that I can follow customer comments.
+g04-recycling.txt: As a user, I want to be able to give my email ID, so that I can receive notifications for new events as they are posted.
+g22-rdadmp.txt: As a researcher, I want to link research publications in the institutional repository or CRIS with DMP records, so that I can generate reports of research output resulting from a project.
+g11-nsf.txt: As a research participant, I want to make sure that the appearance of the prototype does not distract from the workflow, so that I can complete the user interview.
+User Stories for Library Management System.txt: As a member, I want to calculate the fine for delayed returns by automatically.
+User Stories for Restaurant Management System.txt: As a cook, I want to mark items unavailable, so that Waiter can inform customers.
+User Stories for Restaurant Management System.txt: As a management user, I want to see the arrival and departure times of the employees.
+g23-archivesspace.txt: As an Archivist, I want to create and edit Agent records.
+g23-archivesspace.txt: As an Archivist, I want to create and edit Event records.
+g17-cask.txt: As an app developer, I want to share a dataset type that I had previously deployed as part of an app.
+User Stories for Restaurant Management System.txt: As a manager, I want to keep track of resources available so that I can manage inventory.
+g02-federalspending.txt: As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
+g24-unibath.txt: As a depositor, I want to specify a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
+g28-zooniverse.txt: As a Zooniverse admin, I want to know when I should educate a volunteer.
+g16-mis.txt: As a repository manager, I want to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
+g22-rdadmp.txt: As an ethics manager, I want to be informed about the data, so that I can check for sensitivity of data.
+g25-duraspace.txt: As a repository manager, I want to indicate names related to the collection either as creator, source, or subject.
+g27-culrepo.txt: As a patron, I want to email system provider to report issues and ask questions.
+g26-racdam.txt: As a researcher I want clear citation information on each document, so that I can cite accurately in a publication.
+User Stories for Restaurant Management System.txt: As a manager, I want to track which employees sell the most number of products so that I can increase their salary.Â
+g14-datahub.txt: As a Consumer, I want to load a Data Package from R, so that that I can immediately start playing with it.
+User Stories for Library Management System.txt: As a librarian, I want to add new books to book list.
+g19-alfred.txt: As an OlderPerson, I want to use ALFRED to control the TV and radio.
+g03-loudoun.txt: As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
+User Stories for Restaurant Management System.txt: As a chef, I want to update the allergy warnings of menu items.
+User Stories for Restaurant Management System.txt: As an employee, I want to change orders of a table.
+User Stories for Library Management System.txt: As a library manager, I want to know which books are borrowed most so that I can bring the further copies of the books.
+User Stories for Library Management System.txt: As a librarian, I want to edit suggestion list.
+g27-culrepo.txt: As a Cornell faculty member, I want to have some control over how items within my collection sort in collection contents lists, so that I can control how my work is presented.
+g25-duraspace.txt: As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified.
+User Stories for Restaurant Management System.txt: As a restaurant manager, I want to see weekly reports.
+g18-neurohub.txt: As a user, I want to sync events created in NeuroHub with a web-based Calendar such as Google Calendar.
+g11-nsf.txt: As a team member, I want to know what visual design related tasks we might need to plan for this sprint, so that I can assign tasks as necessary.
+g16-mis.txt: As a repoadmin, I want to have users to be presented with a license or a selection of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
+User Stories for Restaurant Management System.txt: As an employee, I want to add a new information about myself to the my employee data
+User Stories for Library Management System.txt: As a customer, I want to see the availability of books.
+g13-planningpoker.txt: As a user, I want to have nice error pages when something goes wrong, so that I can trust the system and its developers.
+User Stories for Restaurant Management System.txt: As a restaurant manager, I want to create, monitor and delegate tasks to workers to increase labor management efficiency.
+g27-culrepo.txt: As a DB/IR administrator, I want to see list of subscribers for specified report in order research missing report complaints.
+User Stories for Library Management System.txt: As a staff, I want to add books with unique id.
+g16-mis.txt: As a DigitalRecords Archivist, I want to expose the descriptive record for each ETD item for re-use external to Fedora.
+g26-racdam.txt: As an archivist, I want to see what a particular user has downloaded, so that I can track use of assets.
+g28-zooniverse.txt: As a user, I want to take a picture or upload an image, so that I am recommended with videos related to that picture or image.
