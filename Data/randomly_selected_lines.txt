@@ -1,0 +1,100 @@
+As a manager, I want to filter delayed returns so that I can get contact with related members to request return.
+As a library manager, I want to update the shelf number of the book so that members can track the location of the book.
+As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
+As a manager, I want to see what has been ordered during the day so that I can see how the restaurant performing.
+As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
+As a trainer, I want to copy one of my courses or events, so that I can create a new one.
+As a manager, I want to see the members that passed the due date for returning books so that I can determine their penalties.
+As a team member, I want to know what the first hypothesis is, so that I can start developing a prototype to test.
+As an NSF administrator, I want to shadow the CMS implementation, so that I can learn as the prototype is developed further.
+As a repository manager, I want to describe each component as necessary, including title, date(s), language(s), and other facets.
+As an Agency user, I want historical FPDS data loaded.
+As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
+As a migration specialist, I want to store the AT or Archon source record ids in each ASpace record
+As a repository manager, I need details on the type of data, so that I can check if the archiving can be arranged.
+As a Staff, I want to edit book, so that I can correct book records those are faulty.
+As a student, I want to be able to see page information of books
+As a manager, I want to see missing book numbers.
+As a Data Publishing User, I want to have a view on all the datasets I have published, So that I can perform management actions on my own datasets.
+As a participant, I want to always have the cards in the same order across multiple draws, so that it's easy to compare estimates.
+As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
+As a manager, I want to read an employee data
+As a user, I want to search and discover music using content identification or fingerprinting.
+As an NSF employee, I want to join Github, so that I can participate in the issues as assigned.
+As a MedicalCaregiver, I want to have videophone.
+As a cook, I want to inform waiters after food is ready, so that Waiter can serve the food.
+As a chef, I want to keep due dates of ingredients so that I can use them before the due date.
+As a DigitalRecords Archivist, I want to expose the descriptive record for each ETD item for re-use external to Fedora.
+As a chef, I want to see the updated of ordered items that are updated by waiters.
+As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
+As a PI, I want to plan what kind of data I want to store, so that I can ensure it will be possible to store it.
+As a researcher, I want to ask a question about a specific file, so that I can find out more information.
+As a researcher, I want to access files stored in my Neurohub workspace, using a network drive attached to my workstation.
+As an OlderPerson, I want to have ALFRED to enable me to have face to face contacts as well, so that I do not just have virtual contacts over ALFRED.
+As an Archivist, I want to manage Digital Objects.
+As a restaurant employee, I want to get a notification when the biggest order of the day arrives so that I can motivate other employees.
+As a librarian, I want to arrange book list based on authors.
+As a site editor, I want to edit the content of the email automatically sent to new Certified Scrum Masters and Product Owners, so that I don't need to involve a programmer on simple email edits.
+As a MedicalCaregiver, I want to use video calls in case of emergency.
+As a Consumer, I want to load a Data Package from R, so that that I can immediately start playing with it.
+As a manager, I want to know the total sales and total profit so that I can determine the salaries of all employees.Â
+As a Consumer, I want to search based on description of data package, so that that I can find package which related to some key words.
+As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
+As a user, I want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button.
+As an API User, I want to be able to normalise measures by geographical area, So that I work with datasets in reference to their contextual constraints.
+As a Staff, I want to display reservations of a member, so that I can keep track of reservations.
+As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
+As a data manager, I want to know whether the collected data depends on other data sets from my own or other institutions, so that I can ensure that these dependencies are maintained.
+As a Zooniverse admin, I want to know when a volunteer has made an interesting comment on a subject.
+As a management user, I want to get the daily order numbers of the waiters as a report so that I can know Is there a backlog on a certain employee.
+As a library member, I want to look up books listed by place reservation so that I can find the book i am looking for easier.
+As an employee, I want to change customer orders so that I can change the meal in case of a change of mind of the customer.
+As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites.
+As a publisher, I want to be able to check that every time I update my data it is still good, so that I can catch errors early and store reliable data.
+As a cook, I want to view reports on product storage data.
+As a staff, I want to keep track of my assets.
+As an OlderPerson, I want to be able to zoom into visual content.
+As a data manager, I want to know with which software or technology the data is produced or used, so that I know what technology or background information might be necessary to (re-)use the data.
+As a waiter, I want to display available items, so that I can inform customers.
+As a depositor, I want to manage and share live research data, so that whole project workflow is linked together.
+As a team member, I want to have a high-level sense of the project timeline, so that I can plan my work.
+As a patron, I want to download report/dataset release calendar to load into own calendar.
+As an ethics manager, I want to be informed about the data, so that I can check for sensitivity of data.
+As a chef, I want to check the due dates of ingredients so that I can keep them fresh.
+As a DAMS manager, I want to know when the application of a statute to an object or object component has been modified, either manually or automatically.
+As a Researcher, working with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata.
+As a publisher, I want to show the world how my published data is, so that that it immediately catches consumer's attention.
+As a user, I want to be able to see and navigate the component hierarchy of an object.
+As a member of the library, I want to search books by titles and authors so that I can see if the book exists.
+As an employee, I want to delete a customer order.
+As a library worker, I want to list current subscribers.
+As a faculty member, I want to upload my scholarly work to the repository, so that I can reach a non-academic audience, expand my influence within my academic community, and use it for teaching.
+As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
+As a staff, I want to add books with unique id.
+As an employee, I want to change the amount of resources so that my manager always tracks the right amount of resources.
+As a librarian, I want to see when a borrowed book will return, so that I can inform the other users who demand the same book.Â
+As a member, I want to choose book genres.
+As a manager, I want to see the order count.
+As a researcher, I want to access educational outreach materials, so that I can make connections with institutions.
+As an archivist, I want to have an online form for licensing archival material, so that the process is more transparent and some of the back and forth can be eliminated.
+As a library manager, I want to delete a book record so that I can remove books from the library.
+As a Consumer, I want to see some example data packages quickly, so that I get a sense of what is on this site and if it is useful to look further.
+As a researcher, I want to have the ability to form links between objects, for example File A is an analysis of File B, so that data can be searched by type and by association.
+As a Zooniverse admin, I want to automatically detect Snapshot Serengeti images with no classifiable animals in them.
+As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
+As a site member, I want to mark my email address as private even if the rest of my profile is not, so that no one can contact me.
+As a repository manager, I want to indicate all subjects that are pertinent to a collection, object, or object component.
+As a library manager, I want to assign a book to unique identification number so that I can track the books better in the database.
+As a developer, I want to deposit and maintain datasets via an API such as SWORD2, so that my service can interact with the archive.
+As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
+As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
+As a manager, I want to update what type of books are borrowed the most.
+As a repository manager, I want to know all events occurring to a collection.
+As a customer, I want to see the availability of books.
+As an System Administrator, I want to declare that a user is has the Repository Manager role for a given Repository.
+As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
+As a chef, I want to see the seasonal ingredients so that I can built a menu for every season.
+As a developer, I want to be notified as soon as possible when the state of any of my Apps changes.
+As a waiter, I want to edit orders, so that we can correct changed orders.
+As a collection curator, I want to be able require authentication to access objects unless the request is coming from a whitelisted IP address, list of addresses.
+As a user, I want to receive content recommendations based on most relevant news events in my area.

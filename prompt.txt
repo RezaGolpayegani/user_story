@@ -1,0 +1,5 @@
+"As an avid reader, I want to receive personalized book recommendations based on my reading history, so that I can discover new books that align with my interests." write use case scenarios from this user story
+"" write use case scenarios from this user story
+
+Do same for the following user story - "As a smart home owner, I want to control all of my smart devices from a single app, so I can easily manage my home’s technology."
+
