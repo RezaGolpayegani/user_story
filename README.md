@@ -3,7 +3,7 @@
 This code selects 100 none-empty lines from the text files that are located in `Data/All_Text_Files`.
 
 
-Please this file `Data/renamed_final_modified_lines.csv`.
+Please see this file `Data/renamed_final_modified_lines.csv`.
 
 
 ## To Do:
